@@ -1,0 +1,53 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Mobile",
+      "company": "Samsung",
+      "price": 31000,
+      "qty": 2
+    },
+    {
+      "id": "2",
+      "name": "Laptop",
+      "company": "Dell",
+      "price": 48000,
+      "qty": 1
+    },
+    {
+      "id": "3",
+      "name": "TV",
+      "company": "Sony",
+      "price": 58000,
+      "qty": 1
+    },
+    {
+      "id": "820d",
+      "name": "Watch",
+      "company": "Apple",
+      "price": "35000",
+      "qty": "1"
+    },
+    {
+      "id": "97ab",
+      "name": "Microwave",
+      "company": "Samsung",
+      "price": "20000",
+      "qty": "2"
+    },
+    {
+      "id": "0938",
+      "name": "Cloths",
+      "company": "Cotton",
+      "price": "1500",
+      "qty": "3"
+    },
+    {
+      "id": "8126",
+      "name": "Washing Machine",
+      "company": "LG",
+      "price": "25000",
+      "qty": "2"
+    }
+  ]
+}
